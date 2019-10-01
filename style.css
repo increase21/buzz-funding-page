@@ -1599,4 +1599,12 @@ footer a {
    .form-control {
       width: 100% !important;
    }
+
+   #nav {
+      display: none
+   }
+
+   #mobile-menu {
+      display: block
+   }
 }
