@@ -1585,6 +1585,10 @@ footer a {
       padding-top: 300px !important;
    }
 
+   .slidecontainer {
+      width: 100%;
+   }
+
    ._card2 {
       min-width: auto !important;
       margin-bottom: 4rem;
